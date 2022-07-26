@@ -22,8 +22,8 @@
 
 ## Most recent projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BertramDHooge&repo=legal-documents-classificator)](https://github.com/BertramDHooge/legal-documents-classificator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BertramDHooge&repo=challenge-chess-ai)](https://github.com/BertramDHooge/challenge-chess-ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BertramDHooge&repo=legal-documents-classificator)](https://github.com/BertramDHooge/legal-documents-classificator)
 
 <!--
 
